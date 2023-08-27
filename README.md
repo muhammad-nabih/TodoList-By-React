@@ -1,6 +1,6 @@
 # Link Of This Todo List 
 https://todolist-by-react-2023.netlify.app/
-
+## هذا المشروع يعتبر اول مشروع قمت بعمله برياكت دون اي اصلاحات او اضافات خاصة لا يحتوي علي Toast  او رسالة توضح هل تمت المهمة او لا بمعني اخر هذا قبل عمل اي تطوير له 
 
 ## Getting Started with Create React App
 
